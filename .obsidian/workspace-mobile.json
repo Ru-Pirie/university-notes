@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "74ba0025704e6bc6",
+        "id": "2a889ec53a66bc0f",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9b15191680f2cb",
+            "id": "00602139aa8b69b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "README.md"
+          }
         }
       },
       {
@@ -135,9 +143,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c9b15191680f2cb",
+  "active": "00602139aa8b69b7",
   "lastOpenFiles": [
-    "About.md",
-    "Year 2/ELEC2202/Testing.md"
+    "Year 2/ELEC2202/Testing.md",
+    "README.md"
   ]
 }
