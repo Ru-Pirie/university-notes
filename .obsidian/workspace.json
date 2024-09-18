@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "c8c3174dd8e8ee97",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe6eebb741d4ac0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fb2e96b67bedc1b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1f77b1e7ecca8a2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb029c54f1e743d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6efb83618be51043",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3e38f939c435b7c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3d589bb6f57b3f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85e6b8ffea11fbaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a2fea58c19cbb4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed64cc9142d0c22e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1d69126b715a9e0c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34a9e2dd7a21b501",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2fd2c743e7a87b10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8b3b3039a588ae2e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4e7db95c45a5c41",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "publish:Publish changes...": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f4e7db95c45a5c41",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Temp.md",
+    "Pasted image 20240821201950.png",
+    "Untitled",
+    "Excalidraw/Drawing 2024-06-10 14.29.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-10 14.29.56.excalidraw.md",
+    "Internship Notes.md",
+    "Internship",
+    "Untitled 1.md",
+    "LAB PREP T4.md",
+    "Academic Integrity Breaches.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/9. Karnaugh (K-) Maps.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/8. Boolean Algebra.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/5. Truth tables and logic functions.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/10. Terminology.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/11. Application of K-Maps.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/22. ASM Design 5 (Advanced Topics).md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/21. ASM Design 4 (Design Example).md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/29. System Verilog for Sequential Design.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/19. ASM Design 2 (Outputs).md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/14. Sequential Logic.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/13. CMOS.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/3. Combinational Logic & Boolean Algebra.md",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/4. Combinational Logic Implementation.md",
+    "Year 1/(ELEC1200) Electronic Circuits/25. Resonance RLC circuits and Time Domain Analyis.md",
+    "Year 1/(ELEC1200) Electronic Circuits/23. DC LRC.md",
+    "Year 1/(ELEC1200) Electronic Circuits/22. Working with phasors.md",
+    "Year 1/(ELEC1200) Electronic Circuits/21. Maximum Power Transfer.md",
+    "Attachments/Pasted image 20240424091818.png",
+    "Attachments/Pasted image 20240424091732.png",
+    "Attachments/Pasted image 20240424091731.png",
+    "Attachments/Pasted image 20240424091707.png",
+    "Attachments/Pasted image 20240424091706.png",
+    "Attachments/Pasted image 20240422172553.png",
+    "Attachments/Pasted image 20240422172527.png",
+    "Attachments/Pasted image 20240422171820.png",
+    "Attachments/Pasted image 20240422171153.png",
+    "Year 1/Revision/ELEC1206",
+    "Year 1/Revision",
+    "Year 1/(ELEC1202) Digital Systems and Microprocessors/Untitled",
+    "Untitled.canvas",
+    "Excalidraw",
+    "Attachments/Untitled.canvas",
+    "Attachments",
+    "Year 1/(ELEC1201) Programming/LABS Prep",
+    "Year 4",
+    "Year 3"
+  ]
+}
