@@ -1,1 +1,2 @@
-#This is used to store my uni notes from lectures and any other uni work
+# Universiy Notes 
+This is used to store my uni notes from lectures and any other uni work
