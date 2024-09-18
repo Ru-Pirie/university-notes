@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe6eebb741d4ac0d",
+        "id": "5587b6dc1b268f43",
         "type": "tabs",
         "children": [
           {
-            "id": "4fb2e96b67bedc1b",
+            "id": "1789bfbbdf24e1e0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -158,12 +158,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4e7db95c45a5c41",
+  "active": "1789bfbbdf24e1e0",
   "lastOpenFiles": [
+    "About.md",
+    "Year 2/ELEC2202/Testing.md",
+    "Year 2/ELEC2202",
+    "Year 2",
     "Welcome.md",
     "Temp.md",
     "Pasted image 20240821201950.png",
-    "Untitled",
     "Excalidraw/Drawing 2024-06-10 14.29.54.excalidraw.md",
     "Excalidraw/Drawing 2024-06-10 14.29.56.excalidraw.md",
     "Internship Notes.md",
@@ -186,8 +189,6 @@
     "Year 1/(ELEC1202) Digital Systems and Microprocessors/4. Combinational Logic Implementation.md",
     "Year 1/(ELEC1200) Electronic Circuits/25. Resonance RLC circuits and Time Domain Analyis.md",
     "Year 1/(ELEC1200) Electronic Circuits/23. DC LRC.md",
-    "Year 1/(ELEC1200) Electronic Circuits/22. Working with phasors.md",
-    "Year 1/(ELEC1200) Electronic Circuits/21. Maximum Power Transfer.md",
     "Attachments/Pasted image 20240424091818.png",
     "Attachments/Pasted image 20240424091732.png",
     "Attachments/Pasted image 20240424091731.png",
@@ -205,7 +206,6 @@
     "Attachments/Untitled.canvas",
     "Attachments",
     "Year 1/(ELEC1201) Programming/LABS Prep",
-    "Year 4",
-    "Year 3"
+    "Year 4"
   ]
 }
