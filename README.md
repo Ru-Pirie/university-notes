@@ -1,1 +1,0 @@
-This is the repo where my university notes sync too, contained within are hopefully all the notes I have taken in lectures.
