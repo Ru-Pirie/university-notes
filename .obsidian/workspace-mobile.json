@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2a889ec53a66bc0f",
+        "id": "5499f31562d3455d",
         "type": "tabs",
         "children": [
           {
-            "id": "00602139aa8b69b7",
+            "id": "3b8357c38b6d754f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "05173225b6e77cac",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-09-19 12.52.44.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-19 12.52.44.excalidraw.md",
+            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-19 12.52.44.excalidraw.md",
+            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-09-19 12.52.44.excalidraw.md"
+            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md"
           }
         }
       },
@@ -154,11 +143,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05173225b6e77cac",
+  "active": "3b8357c38b6d754f",
   "lastOpenFiles": [
+    "Year 2/ELEC2047/INTRODUCTION LECTURE.md",
+    "Attachments/INTRODUCTION LECTURE 2024-09-20 13.05.06.excalidraw.md",
+    "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
+    "Attachments",
+    "Year 2/ELEC2229/INTRODUCTION LECTURE.md",
+    "Year 2/ELEC2221/INTRODUCTION LECTURE.md",
+    "Year 2/ELEC2220/INTRODUCTION LECTURE.md",
+    "Year 2/ELEC2218/INTRODUCTION LECTURE.md",
+    "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
+    "Year 2/ELEC2216/INTRODUCTION LECTURE.md",
+    "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
     "README.md",
-    "Excalidraw/Drawing 2024-09-19 12.52.44.excalidraw.md",
-    "Excalidraw",
-    "Year 2/ELEC2202/Testing.md"
+    "Year 2/Untitled.md",
+    "Year 2/ELEC2218",
+    "Year 2/ELEC2208",
+    "Year 2/ELEC2229",
+    "Year 2/ELEC2047",
+    "Year 2/ELEC2217",
+    "Year 2/ELEC2221",
+    "Year 2/ELEC2220",
+    "Year 2/ELEC2232",
+    "Year 2/ELEC2216",
+    "Year 2/ELEC2202/Testing.md",
+    "Excalidraw/Drawing 2024-09-19 12.52.44.excalidraw.md"
   ]
 }
