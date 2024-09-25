@@ -46,6 +46,3 @@ Big Health and Saftey some point 17th nov to the 23rd nov
 # EOs Training
 # ST Johns First Aid / Uni
 - Luke
-
-
-
