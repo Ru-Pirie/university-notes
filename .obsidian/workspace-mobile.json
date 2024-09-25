@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "460a9e827ef3d949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Training Officer Stuff To Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
+            "file": "Training Officer Stuff To Do.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
+            "file": "Training Officer Stuff To Do.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md"
+            "file": "Training Officer Stuff To Do.md"
           }
         }
       },
@@ -143,11 +156,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b8357c38b6d754f",
+  "active": "460a9e827ef3d949",
   "lastOpenFiles": [
+    "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
+    "Training Officer Stuff To Do.md",
     "Year 2/ELEC2047/INTRODUCTION LECTURE.md",
     "Attachments/INTRODUCTION LECTURE 2024-09-20 13.05.06.excalidraw.md",
-    "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
     "Attachments",
     "Year 2/ELEC2229/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2221/INTRODUCTION LECTURE.md",
