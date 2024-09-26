@@ -18,49 +18,34 @@ Medics - no stage soc
 Big Health and Saftey some point 17th nov to the 23rd nov
 
 
-# Actions
-## Another Stagie - Ongoing
-Have messaged Dan asking for his input
-**TODO**
-- Ellie or Sy - Discord Message
-- If not wanting the roll are you willing to rock up for the taster sessions
-- Johnathan Backup
 
-## SUSU FA - Ongoing
-- Sasha 
--  Need to just get committee approval
+# Sort Training Calandar
+
+
+# HOD Training
+# TD Training
+# SUSU FA
 - 
-
-# Sort Training Calendar
-## Advanced Trainings 
-- Again would like to do around the same time ish as HOD (could this be rolled into one?)
-## HOD Training
-- Would like to do with mentors either in the week of the 10th Nov or the week of 17th Nov
-
-## Johnathan Risk Assessment for TD's
-- Again could this be tied into 
-## TD Training
-- To encorage freshers to TD at some point 
-- Do during comdey sprint, the week beginning 2nd feb 
-
-## Committee Training 
+# Committee Training 
 - Before showstoppers spring 2 weeks before the AGM
-- Some point during dead weak 2nd march
-
-## PAT Testing Training 
-- Look into really not much of a reason to tho
-## Prod Team Training
+# PAT Testing Training 
+- Look into
+# Prod Team Training
 - Organise and then throw at mentors / pres or whoever is free
-## ChamSys Training
-- Easter holiday time?
+# Advaced Trainings 
+# Set Design Workshop
+
+# Johnathn Risk Assessment for TD's
+# Vaun
+- Fire marshel training
+# ChamSys Training
 - Lewis
 - Luke?
-## EOs Training
-- Easter holiday time
-## Set Design Workshop
-
-## Vaun
-- Fire marshel training
-
-## ST Johns First Aid / Uni
+# EOs Training
+# ST Johns First Aid / Uni
 - Luke
+
+# Another Stagie
+- Ellie or Sy - Discord Messag
+- If not wanting the roll are you willing to rock up for the taster sessions
+- Johnathan Backup
