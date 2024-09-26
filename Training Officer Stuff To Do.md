@@ -26,28 +26,41 @@ Have messaged Dan asking for his input
 - If not wanting the roll are you willing to rock up for the taster sessions
 - Johnathan Backup
 
+## SUSU FA - Ongoing
+- Sasha 
+-  Need to just get committee approval
+- 
 
 # Sort Training Calendar
-
-## SUSU FA
-- Sasha me or nora
+## Advanced Trainings 
+- Again would like to do around the same time ish as HOD (could this be rolled into one?)
 ## HOD Training
+- Would like to do with mentors either in the week of the 10th Nov or the week of 17th Nov
+
+## Johnathan Risk Assessment for TD's
+- Again could this be tied into 
 ## TD Training
+- To encorage freshers to TD at some point 
+- Do during comdey sprint, the week beginning 2nd feb 
 
 ## Committee Training 
 - Before showstoppers spring 2 weeks before the AGM
+- Some point during dead weak 2nd march
+
 ## PAT Testing Training 
-- Look into
+- Look into really not much of a reason to tho
 ## Prod Team Training
 - Organise and then throw at mentors / pres or whoever is free
-## Advanced Trainings 
-## Set Design Workshop
-## Johnathan Risk Assessment for TD's
-## Vaun
-- Fire marshel training
 ## ChamSys Training
+- Easter holiday time?
 - Lewis
 - Luke?
 ## EOs Training
+- Easter holiday time
+## Set Design Workshop
+
+## Vaun
+- Fire marshel training
+
 ## ST Johns First Aid / Uni
 - Luke
