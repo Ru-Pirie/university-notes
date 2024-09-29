@@ -17,35 +17,45 @@ Medics - no stage soc
 
 Big Health and Saftey some point 17th nov to the 23rd nov
 
-
-
-# Sort Training Calandar
-
-
-# HOD Training
-# TD Training
-# SUSU FA
-- 
-# Committee Training 
-- Before showstoppers spring 2 weeks before the AGM
-# PAT Testing Training 
-- Look into
-# Prod Team Training
-- Organise and then throw at mentors / pres or whoever is free
-# Advaced Trainings 
-# Set Design Workshop
-
-# Johnathn Risk Assessment for TD's
-# Vaun
-- Fire marshel training
-# ChamSys Training
-- Lewis
-- Luke?
-# EOs Training
-# ST Johns First Aid / Uni
-- Luke
-
-# Another Stagie
-- Ellie or Sy - Discord Messag
+# Actions
+## SUSU FA
+- Sasha
+- Need to just get committee approval / double check
+## Another Stagie - Ongoing
+Have messaged Dan asking for his input **TODO**
+- Ellie or Sy - Discord Message
 - If not wanting the roll are you willing to rock up for the taster sessions
 - Johnathan Backup
+
+# Sort Training Calendar
+
+## Big H&S
+
+## HOD Training / Advanced Trainings 
+- Can these be tied into each other ?
+## TD Training
+- To encorage freshers to TD at some point
+- Do during comedy sprint, the week beginning 2nd feb
+## Johnathan Risk Assessment for TD's
+- Could this be tied into TD training?
+- TD training pt2?
+## Committee Training 
+- Before showstoppers spring 2 weeks before the AGM
+- Some point during dead weak 2nd march
+## Prod Team Training
+- Organise and then throw at mentors / president or whoever is free
+## Set Design Workshop
+- Luke get 3d model of the annex to allow people / prod team to spec it out
+- Tie into prod team training 
+## Fire Marshal Training
+- Contact Vaun
+## ChamSys Training
+- Easter Holiday Time
+- Lewis / Luke?
+- Get Contacts
+## EOs Training
+- Easter holiday time
+## First Aid Training w/Uni
+- Work out if needed / best way to do it
+## PAT Testing Training 
+- Look into but really there is no point
