@@ -30,15 +30,19 @@ Have messaged Dan asking for his input **TODO**
 # Sort Training Calendar
 
 ## Big H&S
-
+ - Some point during medics?
+ - 10th to the 16 nov
+- 
 ## HOD Training / Advanced Trainings 
-- Can these be tied into each other ?
+- Can these be tied into each other / sort of the same thing ish not really idk?
+
 ## TD Training
 - To encorage freshers to TD at some point
 - Do during comedy sprint, the week beginning 2nd feb
 ## Johnathan Risk Assessment for TD's
 - Could this be tied into TD training?
 - TD training pt2?
+
 ## Committee Training 
 - Before showstoppers spring 2 weeks before the AGM
 - Some point during dead weak 2nd march
@@ -47,15 +51,18 @@ Have messaged Dan asking for his input **TODO**
 ## Set Design Workshop
 - Luke get 3d model of the annex to allow people / prod team to spec it out
 - Tie into prod team training 
+
 ## Fire Marshal Training
 - Contact Vaun
+## First Aid Training w/Uni
+- Work out if needed / best way to do it
+
 ## ChamSys Training
 - Easter Holiday Time
 - Lewis / Luke?
 - Get Contacts
 ## EOs Training
 - Easter holiday time
-## First Aid Training w/Uni
-- Work out if needed / best way to do it
+
 ## PAT Testing Training 
 - Look into but really there is no point
