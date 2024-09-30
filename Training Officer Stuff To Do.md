@@ -15,7 +15,7 @@ one missing piece / comedy - small message no massive announcement
 
 Medics - no stage soc
 
-Big Health and Saftey some point 17th nov to the 23rd nov
+Big Health and Saftey somepoint 17th nov to the 23rd nov
 
 # Actions
 ## SUSU FA
