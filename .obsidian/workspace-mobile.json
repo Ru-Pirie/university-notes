@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5499f31562d3455d",
+        "id": "572441346f41ad3d",
         "type": "tabs",
         "children": [
           {
-            "id": "3b8357c38b6d754f",
+            "id": "c187f3dd2d260191",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Training Officer Stuff To Do.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Training Officer Stuff To Do.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Training Officer Stuff To Do.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Training Officer Stuff To Do.md"
-          }
+          "state": {}
         }
       },
       {
@@ -143,10 +135,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b8357c38b6d754f",
+  "active": "078edada4567b616",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-30 15.37.45.excalidraw.md",
+    "Untitled",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-09-30 15.58.41.excalidraw.md",
     "Training Officer Stuff To Do.md",
+    "Year 2/ELEC2220 Control and Communications/Drawing 2024-09-30 15.54.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-30 15.37.45.excalidraw.md",
     "Excalidraw",
     "README.md",
     "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
@@ -158,7 +154,7 @@
     "Attachments",
     "Year 2/ELEC2229/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2221/INTRODUCTION LECTURE.md",
-    "Year 2/ELEC2220/INTRODUCTION LECTURE.md",
+    "Year 2/ELEC2220 Control and Communications/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2218/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2216/INTRODUCTION LECTURE.md",
@@ -170,7 +166,7 @@
     "Year 2/ELEC2047",
     "Year 2/ELEC2217",
     "Year 2/ELEC2221",
-    "Year 2/ELEC2220",
+    "Year 2/ELEC2220 Control and Communications",
     "Year 2/ELEC2232",
     "Year 2/ELEC2202/Testing.md",
     "Excalidraw/Drawing 2024-09-19 12.52.44.excalidraw.md"
