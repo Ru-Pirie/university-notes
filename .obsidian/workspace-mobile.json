@@ -11,8 +11,10 @@
             "id": "90f4cf86ffd8bbc4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "Year 2/MATH2047/01-10-2024.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +111,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md"
+          }
         }
       },
       {
@@ -137,6 +143,10 @@
   },
   "active": "90f4cf86ffd8bbc4",
   "lastOpenFiles": [
+    "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
+    "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
+    "Year 2/MATH2047/01-10-2024.excalidraw.md",
+    "Year 2/MATH2047",
     "Attachments/Lapace Transform 2024-09-30 16.36.22.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform.md",
     "Year 2/ELEC2220 Control and Communications/INTRODUCTION LECTURE.md",
@@ -162,9 +172,7 @@
     "Year 2/ELEC2229/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2221/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2218/INTRODUCTION LECTURE.md",
-    "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2216/INTRODUCTION LECTURE.md",
-    "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
     "Year 2/Untitled.md",
     "Year 2/ELEC2218",
     "Year 2/ELEC2208",
@@ -172,7 +180,6 @@
     "Year 2/ELEC2047",
     "Year 2/ELEC2217",
     "Year 2/ELEC2221",
-    "Year 2/ELEC2220 Control and Communications",
     "Year 2/ELEC2202/Testing.md",
     "Excalidraw/Drawing 2024-09-19 12.52.44.excalidraw.md"
   ]
