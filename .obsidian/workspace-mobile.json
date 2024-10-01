@@ -11,11 +11,9 @@
             "id": "8e5afe953ccc9fc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md"
               }
             }
           }
@@ -85,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
+            "file": "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
+            "file": "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Year 2/ELEC2232/INTRODUCTION LECTURE.md"
+            "file": "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md"
           }
         }
       },
@@ -143,8 +141,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "078edada4567b616",
+  "active": "8e5afe953ccc9fc5",
   "lastOpenFiles": [
+    "Year 2/ELEC2232/Electrostatics.md",
+    "Pasted image 20240930162246.png",
+    "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
     "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
     "Attachments/Lapace Transform CTND 2024-10-01 13.03.02.excalidraw.md",
@@ -163,7 +164,6 @@
     "Attachments",
     "Pasted image 20240930162304.png",
     "Drawing 2024-09-30 16.29.00.excalidraw.md",
-    "Pasted image 20240930162246.png",
     "Untitled",
     "Untitled.canvas",
     "Excalidraw/Drawing 2024-09-30 15.58.41.excalidraw.md",
@@ -172,15 +172,12 @@
     "Excalidraw/Drawing 2024-09-30 15.37.45.excalidraw.md",
     "Excalidraw",
     "README.md",
-    "Year 2/ELEC2232/INTRODUCTION LECTURE.md",
     "{14F92951-60B9-41C3-9306-AC1842B70827}.png",
     "/{14F92951-60B9-41C3-9306-AC1842B70827}.png",
     "/Training Officer Stuff To Do.md",
     "Year 2/ELEC2047/INTRODUCTION LECTURE.md",
     "Attachments/INTRODUCTION LECTURE 2024-09-20 13.05.06.excalidraw.md",
     "Year 2/ELEC2229/INTRODUCTION LECTURE.md",
-    "Year 2/ELEC2218/INTRODUCTION LECTURE.md",
-    "Year 2/ELEC2216/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2218",
     "Year 2/ELEC2208",
     "Year 2/ELEC2229",
