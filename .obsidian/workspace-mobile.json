@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6ec6a5a08045c392",
+        "id": "8683d99ac363726c",
         "type": "tabs",
         "children": [
           {
-            "id": "90f4cf86ffd8bbc4",
+            "id": "9226b12af1fe632e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Year 2/MATH2047/01-10-2024.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -141,11 +135,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90f4cf86ffd8bbc4",
+  "active": "9226b12af1fe632e",
   "lastOpenFiles": [
+    "Year 2/MATH2047/01-10-2024.excalidraw.md",
     "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
-    "Year 2/MATH2047/01-10-2024.excalidraw.md",
     "Year 2/MATH2047",
     "Attachments/Lapace Transform 2024-09-30 16.36.22.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform.md",
