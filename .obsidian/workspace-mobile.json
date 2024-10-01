@@ -4,30 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "8683d99ac363726c",
+        "id": "9e4ffa58078b69f1",
         "type": "tabs",
         "children": [
           {
-            "id": "9226b12af1fe632e",
+            "id": "cbc2c4aafa325fc2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md"
+                "file": "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "bf5f965c09eb4826",
+            "id": "35dcbbac60235d4c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md"
+                "file": "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md",
+            "file": "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md",
+            "file": "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md"
+            "file": "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md"
           }
         }
       },
@@ -151,18 +154,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9226b12af1fe632e",
+  "active": "35dcbbac60235d4c",
   "lastOpenFiles": [
-    "Year 2/ELEC2221 Digital Systems and Signal Processing/The Aximons of Probability.md",
+    "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
+    "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
+    "Attachments/Lapace Transform CTND 2024-10-01 13.03.02.excalidraw.md",
+    "Attachments/Lapace Transform 2024-09-30 16.36.22.excalidraw.md",
+    "Year 2/ELEC2220 Control and Communications/Lapace Transform.md",
     "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md",
+    "Year 2/ELEC2221 Digital Systems and Signal Processing/The Aximons of Probability.md",
     "Attachments/Pasted image 20241001113456.png",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/INTRODUCTION LECTURE.md",
     "Year 2/MATH2047/01-10-2024.excalidraw.md",
     "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
     "Year 2/MATH2047",
-    "Attachments/Lapace Transform 2024-09-30 16.36.22.excalidraw.md",
-    "Year 2/ELEC2220 Control and Communications/Lapace Transform.md",
     "Year 2/ELEC2220 Control and Communications/INTRODUCTION LECTURE.md",
     "Attachments/Lapace Transform 2024-09-30 16.30.05.excalidraw.md",
     "Attachments",
@@ -186,13 +192,11 @@
     "Year 2/ELEC2229/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2218/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2216/INTRODUCTION LECTURE.md",
-    "Year 2/Untitled.md",
     "Year 2/ELEC2218",
     "Year 2/ELEC2208",
     "Year 2/ELEC2229",
     "Year 2/ELEC2047",
     "Year 2/ELEC2217",
-    "Year 2/ELEC2221 Digital Systems and Signal Processing",
-    "Year 2/ELEC2202/Testing.md"
+    "Year 2/ELEC2221 Digital Systems and Signal Processing"
   ]
 }
