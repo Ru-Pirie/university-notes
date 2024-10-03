@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "66c8473d843540b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/ELEC2232/Electrostatics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d993d2fe8f3d0e4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Year 2/MATH2047/Drawing 2024-10-03 10.58.28.excalidraw.md"
+                "file": "Year 2/MATH2047/03-10-2024.excalidraw.md"
               }
             }
           }
@@ -95,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/ELEC2232/Electrostatics.md",
+            "file": "Year 2/MATH2047/03-10-2024.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/ELEC2232/Electrostatics.md",
+            "file": "Year 2/MATH2047/03-10-2024.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Year 2/ELEC2232/Electrostatics.md"
+            "file": "Year 2/MATH2047/03-10-2024.excalidraw.md"
           }
         }
       },
@@ -153,9 +141,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66c8473d843540b6",
+  "active": "9d993d2fe8f3d0e4",
   "lastOpenFiles": [
-    "Year 2/MATH2047/Drawing 2024-10-03 10.58.28.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-03 11.29.38.excalidraw.md",
+    "Year 2/MATH2047/03-10-2024.excalidraw.md",
     "Year 2/ELEC2232/Electrostatics.md",
     "Year 2/MATH2047",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/Untitled.md",
@@ -193,7 +182,6 @@
     "{14F92951-60B9-41C3-9306-AC1842B70827}.png",
     "/{14F92951-60B9-41C3-9306-AC1842B70827}.png",
     "/Training Officer Stuff To Do.md",
-    "Year 2/ELEC2047/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2218",
     "Year 2/ELEC2208",
     "Year 2/ELEC2229",
