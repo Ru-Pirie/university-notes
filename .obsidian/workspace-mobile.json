@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "8c02b9e3ae5ba8d0",
+        "id": "7ea5204512bb8c48",
         "type": "tabs",
         "children": [
           {
-            "id": "96d087894a66cd42",
+            "id": "66c8473d843540b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/ELEC2232/Electrostatics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d993d2fe8f3d0e4",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Year 2/MATH2047/01-10-2024.excalidraw.md"
+                "file": "Year 2/MATH2047/Drawing 2024-10-03 10.58.28.excalidraw.md"
               }
             }
           }
@@ -83,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md",
+            "file": "Year 2/ELEC2232/Electrostatics.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md",
+            "file": "Year 2/ELEC2232/Electrostatics.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +124,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Year 2/MATH2047/01-10-2024.excalidraw.md"
+            "file": "Year 2/ELEC2232/Electrostatics.md"
           }
         }
       },
@@ -141,15 +153,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96d087894a66cd42",
+  "active": "66c8473d843540b6",
   "lastOpenFiles": [
-    "Year 2/MATH2047/02-10-2024.excalidraw.md",
+    "Year 2/MATH2047/Drawing 2024-10-03 10.58.28.excalidraw.md",
+    "Year 2/ELEC2232/Electrostatics.md",
+    "Year 2/MATH2047",
+    "Year 2/ELEC2221 Digital Systems and Signal Processing/Untitled.md",
     "Year 2/MATH2047/01-10-2024.excalidraw.md",
+    "Year 2/MATH2047/02-10-2024.excalidraw.md",
     "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
     "Attachments/Pasted Image 20241001153123_978.jpg",
     "Attachments/Pasted Image 20241001153053_644.jpg",
     "Attachments/Pasted Image 20241001153001_701.jpg",
-    "Year 2/ELEC2232/Electrostatics.md",
     "Pasted image 20240930162246.png",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
     "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
@@ -162,7 +177,6 @@
     "Year 2/ELEC2221 Digital Systems and Signal Processing/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
-    "Year 2/MATH2047",
     "Year 2/ELEC2220 Control and Communications/INTRODUCTION LECTURE.md",
     "Attachments/Lapace Transform 2024-09-30 16.30.05.excalidraw.md",
     "Attachments",
@@ -180,8 +194,6 @@
     "/{14F92951-60B9-41C3-9306-AC1842B70827}.png",
     "/Training Officer Stuff To Do.md",
     "Year 2/ELEC2047/INTRODUCTION LECTURE.md",
-    "Attachments/INTRODUCTION LECTURE 2024-09-20 13.05.06.excalidraw.md",
-    "Year 2/ELEC2229/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2218",
     "Year 2/ELEC2208",
     "Year 2/ELEC2229",
