@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9f10e080cadc2077",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
+            "file": "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
+            "file": "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Year 2/ELEC2217/INTRODUCTION LECTURE.md"
+            "file": "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md"
           }
         }
       },
@@ -143,8 +154,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b693cd0fcb1045aa",
+  "active": "9f10e080cadc2077",
   "lastOpenFiles": [
+    "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
+    "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
     "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
     "Attachments/Pasted Image 20241003175531_650.jpg",
     "Attachments/Pasted Image 20241003170720_001.jpg",
@@ -174,7 +187,6 @@
     "Attachments/Pasted image 20241001113456.png",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
-    "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2220 Control and Communications/INTRODUCTION LECTURE.md",
     "Attachments/Lapace Transform 2024-09-30 16.30.05.excalidraw.md",
     "Attachments",
