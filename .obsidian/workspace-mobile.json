@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "6483a69f8b770205",
+        "id": "9f594b4ea47767da",
         "type": "tabs",
         "children": [
           {
-            "id": "57f340f08a536ca0",
+            "id": "df103de88d91f619",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND CTND.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6411115b6604f564",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +124,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md"
+          }
         }
       },
       {
@@ -135,8 +154,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57f340f08a536ca0",
+  "active": "6411115b6604f564",
   "lastOpenFiles": [
+    "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND CTND.md",
+    "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md",
+    "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
+    "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
     "Attachments/Source and Channel Coding 2024-10-04 14.01.39.excalidraw.md",
     "Attachments/Pasted Image 20241004143936_439.jpg",
     "Attachments/Pasted Image 20241004143630_709.jpg",
@@ -161,8 +184,6 @@
     "Excalidraw/Drawing 2024-10-03 11.29.38.excalidraw.md",
     "Year 2/MATH2047/01-10-2024.excalidraw.md",
     "Year 2/MATH2047",
-    "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
-    "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
     "Attachments/Lapace Transform CTND 2024-10-01 13.03.02.excalidraw.md",
     "Attachments/Lapace Transform 2024-09-30 16.36.22.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform.md",
@@ -173,7 +194,6 @@
     "Year 2/ELEC2220 Control and Communications/INTRODUCTION LECTURE.md",
     "Attachments/Lapace Transform 2024-09-30 16.30.05.excalidraw.md",
     "Attachments",
-    "Drawing 2024-09-30 16.29.00.excalidraw.md",
     "Untitled",
     "Untitled.canvas",
     "Excalidraw",

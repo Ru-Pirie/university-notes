@@ -1,0 +1,1 @@
+![[Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw]]
