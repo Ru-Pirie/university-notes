@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c604af501039bc48",
+        "id": "6483a69f8b770205",
         "type": "tabs",
         "children": [
           {
-            "id": "b693cd0fcb1045aa",
+            "id": "57f340f08a536ca0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f10e080cadc2077",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md"
-          }
+          "state": {}
         }
       },
       {
@@ -154,15 +135,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f10e080cadc2077",
+  "active": "57f340f08a536ca0",
   "lastOpenFiles": [
+    "Attachments/Source and Channel Coding 2024-10-04 14.01.39.excalidraw.md",
+    "Attachments/Pasted Image 20241004143936_439.jpg",
+    "Attachments/Pasted Image 20241004143630_709.jpg",
+    "Year 2/ELEC2221 Digital Systems and Signal Processing/Source and Channel Coding.md",
+    "Attachments/Pasted Image 20241004143207_780.jpg",
+    "Attachments/Pasted Image 20241004142836_575.jpg",
+    "Attachments/Pasted Image 20241004142431_017.jpg",
+    "Attachments/Pasted Image 20241004142317_525.jpg",
+    "Attachments/Pasted Image 20241004141221_366.jpg",
+    "Attachments/Pasted Image 20241004141203_449.jpg",
+    "Attachments/Pasted Image 20241004140840_434.jpg",
+    "Attachments/Pasted Image 20241004140707_579.jpg",
     "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
     "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
     "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
-    "Attachments/Pasted Image 20241003175531_650.jpg",
-    "Attachments/Pasted Image 20241003170720_001.jpg",
-    "Attachments/Pasted Image 20241003163711_728.jpg",
-    "Attachments/Pasted Image 20241003163503_814.jpg",
     "Year 2/ELEC2232/Electrostatics.md",
     "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
     "Year 2/MATH2047/03-10-2024.excalidraw.md",
@@ -172,11 +161,6 @@
     "Excalidraw/Drawing 2024-10-03 11.29.38.excalidraw.md",
     "Year 2/MATH2047/01-10-2024.excalidraw.md",
     "Year 2/MATH2047",
-    "Year 2/ELEC2221 Digital Systems and Signal Processing/Untitled.md",
-    "Attachments/Pasted Image 20241001153123_978.jpg",
-    "Attachments/Pasted Image 20241001153053_644.jpg",
-    "Attachments/Pasted Image 20241001153001_701.jpg",
-    "Pasted image 20240930162246.png",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
     "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
     "Attachments/Lapace Transform CTND 2024-10-01 13.03.02.excalidraw.md",
@@ -184,18 +168,14 @@
     "Year 2/ELEC2220 Control and Communications/Lapace Transform.md",
     "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/The Aximons of Probability.md",
-    "Attachments/Pasted image 20241001113456.png",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2220 Control and Communications/INTRODUCTION LECTURE.md",
     "Attachments/Lapace Transform 2024-09-30 16.30.05.excalidraw.md",
     "Attachments",
-    "Pasted image 20240930162304.png",
     "Drawing 2024-09-30 16.29.00.excalidraw.md",
     "Untitled",
     "Untitled.canvas",
-    "Excalidraw/Drawing 2024-09-30 15.58.41.excalidraw.md",
-    "Training Officer Stuff To Do.md",
     "Excalidraw",
     "Year 2/ELEC2218",
     "Year 2/ELEC2208",
