@@ -11,9 +11,11 @@
             "id": "b693cd0fcb1045aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md"
+                "file": "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
+            "file": "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
+            "file": "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md"
+            "file": "Year 2/ELEC2217/INTRODUCTION LECTURE.md"
           }
         }
       },
@@ -143,11 +145,12 @@
   },
   "active": "b693cd0fcb1045aa",
   "lastOpenFiles": [
+    "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
+    "Attachments/Pasted Image 20241003175531_650.jpg",
     "Attachments/Pasted Image 20241003170720_001.jpg",
     "Attachments/Pasted Image 20241003163711_728.jpg",
     "Attachments/Pasted Image 20241003163503_814.jpg",
     "Year 2/ELEC2232/Electrostatics.md",
-    "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
     "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
     "Year 2/MATH2047/03-10-2024.excalidraw.md",
     "Attachments/C00 Intro 2024-10-03 12.02.42.excalidraw.md",
@@ -182,8 +185,6 @@
     "Excalidraw/Drawing 2024-09-30 15.58.41.excalidraw.md",
     "Training Officer Stuff To Do.md",
     "Excalidraw",
-    "{14F92951-60B9-41C3-9306-AC1842B70827}.png",
-    "/{14F92951-60B9-41C3-9306-AC1842B70827}.png",
     "Year 2/ELEC2218",
     "Year 2/ELEC2208",
     "Year 2/ELEC2229",
