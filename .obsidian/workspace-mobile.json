@@ -13,22 +13,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Year 2/MATH2047/03-10-2024.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "f3980eaaf50a7db6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-10-06 15.11.12.excalidraw.md"
+                "file": "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-06 15.11.12.excalidraw.md",
+            "file": "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-06 15.11.12.excalidraw.md",
+            "file": "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-06 15.11.12.excalidraw.md"
+            "file": "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md"
           }
         }
       },
@@ -152,11 +141,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3980eaaf50a7db6",
+  "active": "b1005447715102c6",
   "lastOpenFiles": [
-    "Year 2/MATH2047/03-10-2024.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-06 15.11.12.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND CTND.md",
+    "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
+    "Year 2/ELEC2232/Electrostatics.md",
+    "Year 2/MATH2047/03-10-2024.excalidraw.md",
+    "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md",
+    "Year 2/ELEC2221 Digital Systems and Signal Processing/The Aximons of Probability.md",
+    "Excalidraw/Drawing 2024-10-06 15.11.12.excalidraw.md",
     "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
     "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
@@ -175,8 +168,6 @@
     "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
     "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
     "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
-    "Year 2/ELEC2232/Electrostatics.md",
-    "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
     "Attachments/C00 Intro 2024-10-03 12.02.42.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/C00 Intro.md",
     "Year 2/MATH2047/02-10-2024.excalidraw.md",
@@ -186,8 +177,6 @@
     "Attachments/Lapace Transform CTND 2024-10-01 13.03.02.excalidraw.md",
     "Attachments/Lapace Transform 2024-09-30 16.36.22.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Lapace Transform.md",
-    "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md",
-    "Year 2/ELEC2221 Digital Systems and Signal Processing/The Aximons of Probability.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2208/INTRODUCTION LECTURE.md",
     "Year 2/ELEC2220 Control and Communications/INTRODUCTION LECTURE.md",
