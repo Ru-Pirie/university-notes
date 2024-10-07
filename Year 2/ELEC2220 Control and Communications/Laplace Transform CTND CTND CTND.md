@@ -1,0 +1,1 @@
+![[Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw]]

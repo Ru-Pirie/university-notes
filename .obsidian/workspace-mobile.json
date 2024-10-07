@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/ELEC2217/D2 INTRODUCTION Lab.md",
+                "file": "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ce81ca0c10446576",
+            "id": "8d5a33798ab8ee87",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Attachments/D2 INTRODUCTION Lab 2024-10-07 11.48.48.excalidraw.md"
+                "file": "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Attachments/D2 INTRODUCTION Lab 2024-10-07 11.48.48.excalidraw.md",
+            "file": "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Attachments/D2 INTRODUCTION Lab 2024-10-07 11.48.48.excalidraw.md",
+            "file": "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Attachments/D2 INTRODUCTION Lab 2024-10-07 11.48.48.excalidraw.md"
+            "file": "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md"
           }
         }
       },
@@ -154,8 +154,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce81ca0c10446576",
+  "active": "8d5a33798ab8ee87",
   "lastOpenFiles": [
+    "Attachments/Pasted Image 20241007170255_602.jpg",
+    "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND.md",
+    "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md",
     "Year 2/ELEC2217/D2 INTRODUCTION Lab.md",
     "Attachments/D2 INTRODUCTION Lab 2024-10-07 11.48.48.excalidraw.md",
     "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
@@ -190,9 +193,6 @@
     "Year 2/MATH2047/01-10-2024.excalidraw.md",
     "Year 2/MATH2047",
     "Attachments/Lapace Transform CTND 2024-10-01 13.03.02.excalidraw.md",
-    "Attachments/Lapace Transform 2024-09-30 16.36.22.excalidraw.md",
-    "Year 2/ELEC2220 Control and Communications/Lapace Transform.md",
-    "Year 2/ELEC2221 Digital Systems and Signal Processing/INTRODUCTION LECTURE.md",
     "Attachments",
     "Untitled",
     "Untitled.canvas",
