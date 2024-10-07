@@ -1,0 +1,1 @@
+![[D2 INTRODUCTION Lab 2024-10-07 11.48.48.excalidraw]]
