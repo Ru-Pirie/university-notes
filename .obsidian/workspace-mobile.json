@@ -16,8 +16,19 @@
                 "file": "Year 2/MATH2047/09-10-2024.excalidraw.md"
               }
             }
+          },
+          {
+            "id": "0caa522eb1b495c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/MATH2047/09-10-2024.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/MATH2047/09-10-2024.excalidraw.md",
+            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Year 2/MATH2047/09-10-2024.excalidraw.md"
+            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md"
           }
         }
       },
@@ -141,10 +152,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db264fb74c09b21c",
+  "active": "0caa522eb1b495c0",
   "lastOpenFiles": [
-    "Attachments/Pasted Image 20241009103542_972.jpg",
     "Year 2/MATH2047/09-10-2024.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
+    "Attachments/Pasted Image 20241009103542_972.jpg",
     "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND.md",
     "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md",
     "Excalidraw/Drawing 2024-10-07 19.25.45.excalidraw.md",
@@ -174,7 +186,6 @@
     "Attachments/Pasted Image 20241004142317_525.jpg",
     "Attachments/Pasted Image 20241004141221_366.jpg",
     "Attachments/Pasted Image 20241004141203_449.jpg",
-    "Attachments/Pasted Image 20241004140840_434.jpg",
     "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
     "Attachments/C00 Intro 2024-10-03 12.02.42.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/C00 Intro.md",
