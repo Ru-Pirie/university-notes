@@ -100,29 +100,29 @@
         "status": "unpublished",
         "elements": [
           {
-            "id": "poDQhkzRfjajZqGd5SCHU",
             "type": "freedraw",
-            "x": -535.6325393037539,
-            "y": 7466.506850669009,
-            "width": 999.8677310943602,
-            "height": 31.2950439453126,
-            "angle": 0,
-            "strokeColor": "#1e1e1e",
-            "backgroundColor": "transparent",
+            "version": 1312,
+            "versionNonce": 820168778,
+            "index": "bPq",
+            "isDeleted": false,
+            "id": "poDQhkzRfjajZqGd5SCHU",
             "fillStyle": "solid",
             "strokeWidth": 1,
             "strokeStyle": "solid",
             "roughness": 1,
             "opacity": 100,
+            "angle": 0,
+            "x": -535.6325393037539,
+            "y": 7466.506850669009,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 999.8677310943602,
+            "height": 31.2950439453126,
+            "seed": 598219658,
             "groupIds": [],
             "frameId": null,
-            "index": "bPq",
             "roundness": null,
-            "seed": 598219658,
-            "version": 1312,
-            "versionNonce": 820168778,
-            "isDeleted": false,
-            "boundElements": null,
+            "boundElements": [],
             "updated": 1728378805721,
             "link": null,
             "locked": false,
@@ -1536,6 +1536,8 @@
                 -4.057114722119012
               ]
             ],
+            "lastCommittedPoint": null,
+            "simulatePressure": false,
             "pressures": [
               0.15921856462955475,
               0.18901100754737854,
@@ -1889,11 +1891,6 @@
               0.4376068711280823,
               0.4376068711280823,
               0
-            ],
-            "simulatePressure": false,
-            "lastCommittedPoint": [
-              953.2276248931885,
-              1.96197509765625
             ]
           }
         ],
