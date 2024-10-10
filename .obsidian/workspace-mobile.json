@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb9da4937c0e357c",
+        "id": "fa2107b99b05549b",
         "type": "tabs",
         "children": [
           {
-            "id": "7fde76d7ba4938e9",
+            "id": "609cedf2f9fe0b40",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -149,14 +149,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fde76d7ba4938e9",
+  "active": "609cedf2f9fe0b40",
   "lastOpenFiles": [
+    "Year 2/ELEC2221 Digital Systems and Signal Processing/Analogue Modulation.md",
+    "Attachments/Analogue Modulation 2024-10-10 12.05.29.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
     "Year 2/MATH2047/10-10-2024.excalidraw.md",
     "Pasted image 20240930162246.png",
     "README.md",
     "Year 2/MATH2047/09-10-2024.excalidraw.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Datatypes.md",
-    "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
     "Attachments/Pasted Image 20241009103542_972.jpg",
     "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND.md",
     "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md",
@@ -180,7 +182,6 @@
     "Attachments/Source and Channel Coding 2024-10-04 14.01.39.excalidraw.md",
     "Attachments/Pasted Image 20241004143936_439.jpg",
     "Attachments/Pasted Image 20241004143630_709.jpg",
-    "Year 2/ELEC2221 Digital Systems and Signal Processing/Source and Channel Coding.md",
     "Attachments/Pasted Image 20241004143207_780.jpg",
     "Attachments/Pasted Image 20241004142836_575.jpg",
     "Attachments/Pasted Image 20241004142431_017.jpg",
