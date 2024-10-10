@@ -21,9 +21,11 @@
             "id": "0caa522eb1b495c0",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md"
+                "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Datatypes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
+            "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Datatypes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
+            "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Datatypes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md"
+            "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Datatypes.md"
           }
         }
       },
@@ -134,9 +136,17 @@
           "type": "git-view",
           "state": {}
         }
+      },
+      {
+        "id": "f6f77e1d20388674",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,8 +164,9 @@
   },
   "active": "0caa522eb1b495c0",
   "lastOpenFiles": [
-    "Year 2/MATH2047/09-10-2024.excalidraw.md",
     "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
+    "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Datatypes.md",
+    "Year 2/MATH2047/09-10-2024.excalidraw.md",
     "Attachments/Pasted Image 20241009103542_972.jpg",
     "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND.md",
     "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md",
@@ -189,7 +200,6 @@
     "Attachments/Electrostatics 2024-10-03 16.04.41.excalidraw.md",
     "Attachments/C00 Intro 2024-10-03 12.02.42.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/C00 Intro.md",
-    "Year 2/MATH2047/02-10-2024.excalidraw.md",
     "Year 2/MATH2047",
     "Attachments",
     "Untitled",
