@@ -41,12 +41,13 @@ Base represents the radix, default is decimal
 - Define each of the blocks as a module and instanciate each module in a top level module
 - Define each of the signals connecting modules
 ## CPU Example
+### Parameters
 ```systemverilog
 module cpu #(parameter Dsize=8)
 	(input logic clk, input logic reset, output logic[Dsize-1:0] outport);
 ```
 ```systemverilog
-cpu #(.Dsize(8)) co (.*); // Note the ports are mapped implicitly 
+cpu #(.Dsize(8)) c0 (.*); // Note the ports are mapped implicitly 
 ```
 ```systemverilog
 parameter Psize = 6;
