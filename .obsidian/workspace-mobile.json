@@ -11,13 +11,26 @@
             "id": "609cedf2f9fe0b40",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/Arithmetic Coding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "057fddd75fa1794e",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md"
+                "file": "Attachments/Arithmetic Coding 2024-10-11 14.06.18.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
+            "file": "Attachments/Arithmetic Coding 2024-10-11 14.06.18.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
+            "file": "Attachments/Arithmetic Coding 2024-10-11 14.06.18.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md"
+            "file": "Attachments/Arithmetic Coding 2024-10-11 14.06.18.excalidraw.md"
           }
         }
       },
@@ -149,10 +162,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "609cedf2f9fe0b40",
+  "active": "057fddd75fa1794e",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-10 14.46.06.excalidraw.md",
+    "Attachments/Pasted Image 20241011142933_812.jpg",
+    "Attachments/Pasted Image 20241011142847_354.jpg",
+    "Attachments/Pasted Image 20241011142407_204.jpg",
+    "Attachments/Pasted Image 20241011141924_122.jpg",
+    "Attachments/Pasted Image 20241011141806_904.jpg",
+    "Attachments/Pasted Image 20241011141717_834.jpg",
+    "Year 2/ELEC2221 Digital Systems and Signal Processing/Arithmetic Coding.md",
+    "Attachments/Arithmetic Coding 2024-10-11 14.06.18.excalidraw.md",
     "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-10 14.46.06.excalidraw.md",
     "Year 2/MATH2047/10-10-2024.excalidraw.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/Analogue Modulation.md",
     "Attachments/Analogue Modulation 2024-10-10 12.05.29.excalidraw.md",
@@ -177,16 +198,8 @@
     "Year 2/MATH2047/03-10-2024.excalidraw.md",
     "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/The Aximons of Probability.md",
-    "Excalidraw/Drawing 2024-10-06 15.11.12.excalidraw.md",
-    "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND.md",
-    "Attachments/Lapace Transform CTND 2024-10-01 13.25.29.excalidraw.md",
     "Attachments/Pasted Image 20241004143936_439.jpg",
     "Attachments/Pasted Image 20241004143630_709.jpg",
-    "Attachments/Pasted Image 20241004143207_780.jpg",
-    "Attachments/Pasted Image 20241004142836_575.jpg",
-    "Attachments/Pasted Image 20241004142431_017.jpg",
-    "Attachments/Pasted Image 20241004142317_525.jpg",
-    "Attachments/Pasted Image 20241004141221_366.jpg",
     "Year 2/MATH2047",
     "Attachments",
     "Untitled",
