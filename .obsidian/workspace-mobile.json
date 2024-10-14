@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/ELEC2220 Control and Communications/LAPLACECTND CTND CTND CTND.md",
+                "file": "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND CTND.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0a3c3543db89a53e",
+            "id": "9aaa8f04a732e529",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Attachments/LAPLACECTND CTND CTND CTND 2024-10-11 16.00.54.excalidraw.md"
+                "file": "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md"
               }
             }
           }
@@ -96,7 +96,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Attachments/LAPLACECTND CTND CTND CTND 2024-10-11 16.00.54.excalidraw.md",
+            "file": "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Attachments/LAPLACECTND CTND CTND CTND 2024-10-11 16.00.54.excalidraw.md",
+            "file": "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +125,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Attachments/LAPLACECTND CTND CTND CTND 2024-10-11 16.00.54.excalidraw.md"
+            "file": "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md"
           }
         }
       },
@@ -162,9 +162,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a3c3543db89a53e",
+  "active": "9aaa8f04a732e529",
   "lastOpenFiles": [
-    "Year 2/ELEC2220 Control and Communications/LAPLACECTND CTND CTND CTND.md",
+    "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND CTND.md",
+    "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md",
+    "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND.md",
+    "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND CTND.md",
     "Attachments/LAPLACECTND CTND CTND CTND 2024-10-11 16.00.54.excalidraw.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/Arithmetic Coding.md",
     "Attachments/Arithmetic Coding 2024-10-11 14.06.18.excalidraw.md",
@@ -194,11 +197,8 @@
     "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
     "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
     "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md",
-    "Year 2/ELEC2220 Control and Communications/Lapace Transform CTND CTND.md",
     "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
     "Year 2/ELEC2232/Electrostatics.md",
-    "Year 2/MATH2047/03-10-2024.excalidraw.md",
-    "Attachments/The Aximons of Probability 2024-10-01 11.13.22.excalidraw.md",
     "Attachments/Pasted Image 20241004143936_439.jpg",
     "Year 2/MATH2047",
     "Attachments",
