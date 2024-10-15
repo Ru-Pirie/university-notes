@@ -4,33 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b4cece9cc2622ed5",
+        "id": "1633ce26da8c4688",
         "type": "tabs",
         "children": [
           {
-            "id": "a48353f12bec694c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND CTND.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aaa8f04a732e529",
+            "id": "29d025be1c7225d7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md"
+                "file": "Year 2/MATH2047/15-10-2024.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md",
+            "file": "Year 2/MATH2047/15-10-2024.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md",
+            "file": "Year 2/MATH2047/15-10-2024.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +112,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md"
+            "file": "Year 2/MATH2047/15-10-2024.excalidraw.md"
           }
         }
       },
@@ -162,8 +149,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9aaa8f04a732e529",
+  "active": "29d025be1c7225d7",
   "lastOpenFiles": [
+    "Year 2/MATH2047/15-10-2024.excalidraw.md",
+    "Year 2/MATH2047/15-10-2024.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND CTND.md",
     "Attachments/Laplace Transform CTND CTND CTND CTND CTND 2024-10-14 17.03.55.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND.md",
@@ -197,8 +186,6 @@
     "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
     "Year 2/ELEC2217/INTRODUCTION LECTURE.md",
     "Attachments/Lapace Transform CTND CTND 2024-10-04 15.59.47.excalidraw.md",
-    "Attachments/Electrostatics 2024-10-01 14.25.01.excalidraw.md",
-    "Year 2/ELEC2232/Electrostatics.md",
     "Attachments/Pasted Image 20241004143936_439.jpg",
     "Year 2/MATH2047",
     "Attachments",
