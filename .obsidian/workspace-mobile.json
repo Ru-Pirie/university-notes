@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5758148b4e794a78",
+        "id": "86e9d778b521c81d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e38d731a0f22bd5",
+            "id": "cb62edfbbcf75f43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/The Aximons of Probability.md",
+                "file": "Year 2/MATH2047/Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "da37e98b00012722",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Attachments/The Aximons of Probability 2024-10-15 11.03.00.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Attachments/The Aximons of Probability 2024-10-15 11.03.00.excalidraw.md",
+            "file": "Year 2/MATH2047/Untitled 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Attachments/The Aximons of Probability 2024-10-15 11.03.00.excalidraw.md",
+            "file": "Year 2/MATH2047/Untitled 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Attachments/The Aximons of Probability 2024-10-15 11.03.00.excalidraw.md"
+            "file": "Year 2/MATH2047/Untitled 1.md"
           }
         }
       },
@@ -162,8 +151,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "da37e98b00012722",
+  "active": "cb62edfbbcf75f43",
   "lastOpenFiles": [
+    "Year 2/MATH2047/Untitled.md",
+    "Year 2/MATH2047/Untitled 1.md",
+    "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND CTND CTND.md",
+    "Attachments/Laplace Transform CTND CTND CTND CTND CTND CTND 2024-10-15 12.58.13.excalidraw.md",
+    "Year 2/ELEC2220 Control and Communications/Untitled 1.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/The Aximons of Probability.md",
     "Attachments/The Aximons of Probability 2024-10-15 11.03.00.excalidraw.md",
     "Year 2/MATH2047/15-10-2024.excalidraw.md",
@@ -193,12 +187,7 @@
     "Attachments/Pasted Image 20241009103542_972.jpg",
     "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND.md",
     "Attachments/Laplace Transform CTND CTND CTND 2024-10-07 17.00.27.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-07 19.25.45.excalidraw.md",
-    "Year 2/MATH2047/08-10-2024.excalidraw.md",
     "Attachments/Pasted Image 20241007170255_602.jpg",
-    "Year 2/ELEC2217/D2 INTRODUCTION Lab.md",
-    "Attachments/D2 INTRODUCTION Lab 2024-10-07 11.48.48.excalidraw.md",
-    "Attachments/INTRODUCTION LECTURE 2024-10-04 12.06.04.excalidraw.md",
     "Attachments/Pasted Image 20241004143936_439.jpg",
     "Year 2/MATH2047",
     "Attachments",
