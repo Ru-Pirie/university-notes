@@ -11,9 +11,11 @@
             "id": "b9e9d613c64e7af5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Year 2/MATH2047/16-10-2024.excalidraw.md"
+                "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Sequential Logic.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/MATH2047/16-10-2024.excalidraw.md",
+            "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Sequential Logic.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/MATH2047/16-10-2024.excalidraw.md",
+            "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Sequential Logic.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Year 2/MATH2047/16-10-2024.excalidraw.md"
+            "file": "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Sequential Logic.md"
           }
         }
       },
@@ -151,9 +153,10 @@
   },
   "active": "b9e9d613c64e7af5",
   "lastOpenFiles": [
+    "Year 2/MATH2047/16-10-2024.excalidraw.md",
+    "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Sequential Logic.md",
     "Pasted image 20240930162246.png",
     "Year 2/MATH2047/15-10-2024.excalidraw.md",
-    "Year 2/MATH2047/16-10-2024.excalidraw.md",
     "Untitled",
     "Year 2/MATH2047/Untitled 1.md",
     "Year 2/MATH2047/Untitled.md",
