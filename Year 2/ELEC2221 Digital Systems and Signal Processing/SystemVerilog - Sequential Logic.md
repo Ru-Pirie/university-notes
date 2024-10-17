@@ -26,3 +26,8 @@ This will loop untill all the bits of counter are 1
 
 ## Case
 There is such a thing as a priority case which is a specal one where each element of the case statement are considered as they are presented. This is a little bit odd just use an if statement if you want to do that.
+
+## Subtraction in hardware
+A-B = A + ~B + 1
+
+## Carry Logic
