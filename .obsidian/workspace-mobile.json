@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "12393bf348355375",
+        "id": "968976a0ecdaa113",
         "type": "tabs",
         "children": [
           {
-            "id": "ff0a143bbe2c4253",
+            "id": "1ad26bfc13054320",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Attachments/Block diagrams 2024-10-22 13.01.15.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -33,7 +33,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -48,7 +50,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -59,7 +63,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -67,7 +73,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -83,7 +91,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Attachments/Block diagrams 2024-10-22 13.01.15.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -91,7 +98,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -100,10 +109,11 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Attachments/Block diagrams 2024-10-22 13.01.15.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -111,9 +121,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Attachments/Block diagrams 2024-10-22 13.01.15.excalidraw.md"
-          }
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       },
       {
@@ -121,7 +131,9 @@
         "type": "leaf",
         "state": {
           "type": "git-view",
-          "state": {}
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
         }
       },
       {
@@ -129,7 +141,9 @@
         "type": "leaf",
         "state": {
           "type": "advanced-tables-toolbar",
-          "state": {}
+          "state": {},
+          "icon": "spreadsheet",
+          "title": "Advanced Tables"
         }
       }
     ],
@@ -149,11 +163,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ff0a143bbe2c4253",
+  "active": "1ad26bfc13054320",
   "lastOpenFiles": [
+    "Attachments/Block diagrams 2024-10-22 13.01.15.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Block diagrams.md",
     "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND CTND CTND.md",
-    "Attachments/Block diagrams 2024-10-22 13.01.15.excalidraw.md",
     "Attachments/Laplace Transform CTND CTND CTND CTND CTND CTND 2024-10-15 12.58.13.excalidraw.md",
     "README.md",
     "Training Officer Stuff To Do.md",
