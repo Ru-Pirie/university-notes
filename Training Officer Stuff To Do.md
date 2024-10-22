@@ -37,7 +37,7 @@ Have messaged Dan asking for his input **TODO**
 - Can these be tied into each other / sort of the same thing ish not really idk?
 
 ## TD Training
-- To encorage freshers to TD at some point
+- To encorage freshe point
 - Do during comedy sprint, the week beginning 2nd feb
 ## Johnathan Risk Assessment for TD's
 - Could this be tied into TD training?

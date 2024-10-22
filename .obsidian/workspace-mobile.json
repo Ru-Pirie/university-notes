@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "79604029c69e4646",
+        "id": "12393bf348355375",
         "type": "tabs",
         "children": [
           {
-            "id": "66135b9117e4beec",
+            "id": "ff0a143bbe2c4253",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Year 2/MATH2047/22-10-2024.excalidraw.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Year 2/MATH2047/22-10-2024.excalidraw.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Year 2/MATH2047/22-10-2024.excalidraw.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Year 2/MATH2047/22-10-2024.excalidraw.md"
+            "file": "README.md"
           }
         }
       },
@@ -149,11 +151,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "66135b9117e4beec",
+  "active": "ff0a143bbe2c4253",
   "lastOpenFiles": [
+    "Training Officer Stuff To Do.md",
+    "Year 2/MATH2047/22-10-2024.excalidraw.md",
     "Attachments/Pasted Image 20241022095623_344.jpg",
     "Attachments/Pasted Image 20241022095236_923.jpg",
-    "Year 2/MATH2047/22-10-2024.excalidraw.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/Modulation and Demodulation.md",
     "Attachments/Modulation and Demodulation 2024-10-17 12.18.46.excalidraw.md",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/SystemVerilog - Sequential Logic.md",
@@ -187,7 +190,6 @@
     "Year 2/ELEC2221 Digital Systems and Signal Processing/Analogue Modulation.md",
     "Attachments/Analogue Modulation 2024-10-10 12.05.29.excalidraw.md",
     "Attachments/Pasted Image 20241009103542_972.jpg",
-    "Attachments/Pasted Image 20241007170255_602.jpg",
     "Year 2/MATH2047",
     "Attachments",
     "Untitled.canvas",
