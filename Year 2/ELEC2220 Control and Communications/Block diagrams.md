@@ -1,0 +1,1 @@
+![[Block diagrams 2024-10-22 13.01.15.excalidraw]]
