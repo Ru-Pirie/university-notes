@@ -11,13 +11,28 @@
             "id": "1ad26bfc13054320",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Year 2/MATH2047/22-10-2024.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "22-10-2024.excalidraw"
+            }
+          },
+          {
+            "id": "0cb864325a03b89e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Year 2/MATH2047/Drawing 2024-10-23 10.02.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-23 10.02.28.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Year 2/MATH2047/22-10-2024.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,6 +125,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Year 2/MATH2047/22-10-2024.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -121,7 +138,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "Year 2/MATH2047/22-10-2024.excalidraw.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -163,15 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ad26bfc13054320",
+  "active": "0cb864325a03b89e",
   "lastOpenFiles": [
+    "Year 2/MATH2047/22-10-2024.excalidraw.md",
+    "Year 2/MATH2047/Drawing 2024-10-23 10.02.28.excalidraw.md",
     "Attachments/Block diagrams 2024-10-22 13.01.15.excalidraw.md",
     "Year 2/ELEC2220 Control and Communications/Block diagrams.md",
     "Year 2/ELEC2220 Control and Communications/Laplace Transform CTND CTND CTND CTND CTND CTND.md",
     "Attachments/Laplace Transform CTND CTND CTND CTND CTND CTND 2024-10-15 12.58.13.excalidraw.md",
     "README.md",
     "Training Officer Stuff To Do.md",
-    "Year 2/MATH2047/22-10-2024.excalidraw.md",
     "Attachments/Pasted Image 20241022095623_344.jpg",
     "Attachments/Pasted Image 20241022095236_923.jpg",
     "Year 2/ELEC2221 Digital Systems and Signal Processing/Modulation and Demodulation.md",
@@ -200,7 +220,6 @@
     "Attachments/Pasted Image 20241011141806_904.jpg",
     "Attachments/Pasted Image 20241011141717_834.jpg",
     "Excalidraw/Drawing 2024-10-09 12.08.59.excalidraw.md",
-    "Excalidraw/Drawing 2024-10-10 14.46.06.excalidraw.md",
     "Attachments/Pasted Image 20241009103542_972.jpg",
     "Year 2/MATH2047",
     "Attachments",
